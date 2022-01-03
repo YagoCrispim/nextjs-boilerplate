@@ -1,0 +1,9 @@
+{
+  "component_folder": "src/Components",
+  "alias": {
+    "at": "src/Components/atoms",
+    "ml": "src/Components/molecules",
+    "or": "src/Components/organisms",
+    "pages": "src/pages"
+  }
+}
