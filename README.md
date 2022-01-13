@@ -1,3 +1,3 @@
 # NextJS - Boilerplate
 
-- TypeScript, React, Next.js, Styled Components, Jest & PWA
+- NextJS boilerplate + TypeScript, React, Next.js, Styled Components, Jest, CRC & PWA
